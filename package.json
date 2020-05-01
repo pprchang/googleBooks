@@ -1,5 +1,5 @@
 {
-  "name": "mern",
+  "name": "googlebook",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -23,6 +23,7 @@
     "axios": "^0.18.1",
     "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "mongoose": "^5.9.10"
+    "mongoose": "^5.9.10",
+    "react-router-dom": "^5.1.2"
   }
 }
