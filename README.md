@@ -1,3 +1,9 @@
+# Google Book Search
+Google Book Search is a MERN application that allows the user to search for books via the Google Books API and render them.  In the "Search" page, after searching for a book the user has the option to "View" a book which brings them to the book on Google Books or "Save" a book which will save it to the Mongo database.  When the user visits the "Saved" page, it renders all the books that was saved to the Mongo database. User has an option to "View" the book which brings them to the book on Google Books or "Delete" a book which removes the book from the Mongo database.
+
+## *Live Link*
+(https://lit-garden-62718.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## *Contributing* 
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  Thank you for your corporation.
+
